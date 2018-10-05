@@ -1,0 +1,9 @@
+C:\Users\lmagdaleno\Documents\Visual Studio 2015\Projects\Grades\Grades.Test\bin\Debug\Grades.Test.dll
+C:\Users\lmagdaleno\Documents\Visual Studio 2015\Projects\Grades\Grades.Test\bin\Debug\Grades.Test.pdb
+C:\Users\lmagdaleno\Documents\Visual Studio 2015\Projects\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lmagdaleno\Documents\Visual Studio 2015\Projects\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\lmagdaleno\Documents\Visual Studio 2015\Projects\Grades\Grades.Test\obj\Debug\Grades.Test.dll
+C:\Users\lmagdaleno\Documents\Visual Studio 2015\Projects\Grades\Grades.Test\obj\Debug\Grades.Test.pdb
+C:\Users\lmagdaleno\Documents\Visual Studio 2015\Projects\Grades\Grades.Test\obj\Debug\Grades.Test.csprojResolveAssemblyReference.cache
+C:\Users\lmagdaleno\Documents\Visual Studio 2015\Projects\Grades\Grades.Test\bin\Debug\Grades.exe
+C:\Users\lmagdaleno\Documents\Visual Studio 2015\Projects\Grades\Grades.Test\bin\Debug\Grades.pdb
